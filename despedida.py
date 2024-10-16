@@ -3,7 +3,7 @@ def despedida():
     """
     Imprime una despedida en la consola.
     """
-    print("Adiós desde script2")
+    print("Adiós desde despedida- modificacion en rama1")
 
 if __name__ == "__main__":
     despedida()
